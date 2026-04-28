@@ -9,23 +9,8 @@ Many everyday electronic devices require AC power from a wall socket, while port
 
 ## System Architecture
 
+<img width="857" height="850" alt="image" src="https://github.com/user-attachments/assets/d0ae9d37-b1e9-484c-8ca3-04375bcfb95b" />
 
-12V DC Battery
-      │
-      ▼
-Oscillator & Control (CD4047 IC) ──── Frequency Setting Network (22kΩ + 0.22µF)
-      │
-      ▼
-Gate Driver Circuit (sets 50Hz square wave)
-      │
-      ▼
-Power Amplification Stage (IRFZ44N MOSFETs)
-      │
-      ▼
-Center-Tapped Transformer (12-0-12 → 220V)
-      │
-      ▼
-220V AC Output
 
 ## Key Components
 
