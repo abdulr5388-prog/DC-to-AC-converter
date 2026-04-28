@@ -1,5 +1,5 @@
 # DC-to-AC-converter
-A 12V DC to 220V AC inverter circuit designed on a custom PCB using CD4047 IC for oscillation and IRFZ44N MOSFETs
+A 12V DC to 220V AC inverter circuit designed on a breadboard using CD4047 IC for oscillation and IRFZ44N MOSFETs
 at a stable **50Hz frequency**  capable of powering small electronic devices like phone chargers, lights, and fans.
 
 ## Problem Statement
