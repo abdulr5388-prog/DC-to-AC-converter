@@ -30,20 +30,19 @@ Many everyday electronic devices require AC power from a wall socket, while port
 - Stable 50Hz AC output frequency
 - High-efficiency MOSFET-based power stage
 - Adjustable frequency via potentiometer
-- Designed on a custom PCB layout
 - Built and tested as a working physical prototype
 
 ## Project Objectives
 
 - Design a circuit for converting 12V DC to 220V AC
 - Achieve high efficiency to minimize battery power loss
-- Design a professional PCB layout for the circuit
+- Design a professional breadboard for the circuit
 - Build and test a working physical prototype
 
 ## Tools & Technologies
 
 - Circuit Design & Simulation
-- PCB Layout Design
+- Breadboard Design
 - Oscilloscope & Multimeter for testing
 - Core concepts: Oscillator circuits, Power Amplification, Push-Pull topology
 
